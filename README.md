@@ -1,3 +1,3 @@
-# fcalc
+# Number Cruncher
 
-A new Flutter project.
+A basic calculator app developed in flutter framework.
